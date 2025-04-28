@@ -1,3 +1,6 @@
 mongo
 watermelon
 rice
+inception
+Die hard
+spider man
